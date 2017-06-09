@@ -8,6 +8,9 @@ logstash: <https://static-www.elastic.co/cn/assets/blt946bc636d34a70eb/icon-logs
 elasticsearch: <https://static-www.elastic.co/cn/assets/blt9a26f88bfbd20eb5/icon-elasticsearch-bb.svg?q=230>
 kibana: <https://static-www.elastic.co/cn/assets/blt282ae2420e32fc38/icon-kibana-bb.svg?q=230>
 kafka: <http://kafka.apache.org/images/logo.png>
+mongo: <https://webassets.mongodb.com/_com_assets/global/mongodb-logo-white.png>
+redis: <https://redis.io/images/redis-white.png>
+mysql: <https://www.mysql.com/common/logos/mysql-logo.svg?v2>
 
 company
 -------
